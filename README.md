@@ -307,3 +307,13 @@ This helps identify differences between overall transaction activity and typical
 The Top 5 Branch analysis identifies the branches contributing the highest calculated profit and provides a management-oriented view of branch performance.
 
 ---
+
+## Business Recommendations
+
+**Replicate East and South region strategies elsewhere**, since they show the highest profit and profit margin — understanding what drives their performance (branch density, customer mix, product uptake) could inform expansion in weaker regions.
+
+**Promote Recurring Deposits more aggressively** across other regions, given it's the top investment product by value — it may indicate an underserved appetite for similar products elsewhere.
+
+**Investigate the lowest-profit branches individually** using the Top 5 Branches view in reverse — a root-cause review of the bottom 5 branches could reveal fixable operational issues.
+
+**Standardize data capture** for Age, Customer_Type, and City, since ~5% of records required imputation — better data collection at the source would reduce reliance on estimated values in future analysis.
